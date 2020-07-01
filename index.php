@@ -1,3 +1,7 @@
+WELCOME PEOPLE
+<br/>
+<pre>
 <?php
-echo "HELLO PEOPLE!!";
+print 'Hope you all are fine';
 ?>
+</pre>
